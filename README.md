@@ -3,7 +3,7 @@
 ## Вакансия "Python-разработчик"
 
 ### **Задание 1.** Базовое задание. За полное выполнение задания - 5 баллов
-1. Скачать архив дамп-файлов (`ct-pickle-dumps.zip`) КТ-исследований [отсюда](https://drive.google.com/drive/folders/1kQpVAkm8KiA0L0Zk2K3-RzBl0trWrsgC?usp=sharing), 3 серии снимков
+1. Скачать архив дамп-файлов (`ct-pickle-dumps.zip`) КТ-исследований [отсюда](https://drive.google.com/file/d/1WKfozA2bSnfBKZwrMyiNW6Oy1F1cVG6z/view?usp=sharing), 5 серий снимков (ВНИМАНИЕ! 04.09.2020 Дампы были обновлены, в виду того, что до 04.09.2020 были загружены дампы не отсортированных исследований, но сути задания это не меняет)
 2. Реализовать алгоритм загрузки данных из дамп-файла
 3. Сохранить каждую серию снимков в виде gif-файла. [Пример](https://drive.google.com/file/d/1bmBeg2m5IxBRVcNUj43PgI0rWLl1cgjo/view?usp=sharing)
 
